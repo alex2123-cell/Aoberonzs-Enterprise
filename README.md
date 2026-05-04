@@ -1,5 +1,3 @@
-# Aoberonzs-Enterprise
-Quality Satisfaction to customers
 AOBERONZS-Enterprise/
 │
 ├── index.html

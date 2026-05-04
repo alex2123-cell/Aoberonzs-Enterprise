@@ -1,4 +1,4 @@
-AOBERONZS-Enterprise/
+Aoberonzs-Enterprise/
 │
 ├── index.html
 ├── script.js
